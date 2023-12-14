@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Product CheckOut", "Simple Product CheckOut\Simple Product CheckOut.csproj", "{4C04C392-C3ED-4F07-A304-387CCA98DEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCheckOutTests", "ProductCheckOutTests\ProductCheckOutTests.csproj", "{452A33DE-F50F-4554-A109-1B0991361072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C04C392-C3ED-4F07-A304-387CCA98DEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C04C392-C3ED-4F07-A304-387CCA98DEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C04C392-C3ED-4F07-A304-387CCA98DEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C04C392-C3ED-4F07-A304-387CCA98DEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452A33DE-F50F-4554-A109-1B0991361072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452A33DE-F50F-4554-A109-1B0991361072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452A33DE-F50F-4554-A109-1B0991361072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452A33DE-F50F-4554-A109-1B0991361072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
